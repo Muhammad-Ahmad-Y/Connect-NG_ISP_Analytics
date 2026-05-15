@@ -1,0 +1,6 @@
+PlanCode,PlanName,BasePrice,DataLimit_GB,Overcharge_PerGB
+PLN-BAS,Basic,5000,20,500
+PLN-PRE,Premium,10000,60,250
+PLN-UNL,Unlimited,20000,9999,0
+PLN-FIB,Fiber-Home,15000,150,100
+PLN-ENT,Enterprise,50000,9999,0

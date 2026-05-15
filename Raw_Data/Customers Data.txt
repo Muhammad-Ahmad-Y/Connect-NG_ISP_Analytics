@@ -1,0 +1,126 @@
+CustomerID,FullName,Email,Phone,Region,State,JoinDate,PlanCode,Status
+C-10000,Fatima yusuf,fatima.yusuf@example.com,0740454693,South-South,Delta,2023-01-25,PLN-PRE,Active
+C-10001,olu  Williams,olu.williams@example.com,N/A,North-Central,Abuja,2023-07-19,PLN-BAS,Active
+C-10002,Sarah  Abubakar,sarah.abubakar@example.com,0779337675,North-West,Kaduna,2023-10-22,PLN-BAS,Active
+C-10003, zainab ADE,zainab.ade@example.com,0877761162,South-East,Anambra,2023-06-22,PLN-BAS,Active
+C-10004,Fatima Smith,fatima.smith@example.com,0760191830,South-West,Lagos,2023-01-16,PLN-ENT,Active
+C-10005,emmanuel  Abubakar,emmanuel.abubakar@example.com,0906529718,North-Central,Abuja,2023-07-20,PLN-ENT,Active
+C-10006,olu nwachukwu,olu.nwachukwu@example.com,0846009848,South-West,Lagos,2023-12-20,PLN-BAS,Churned
+C-10007,Fatima Smith,fatima.smith@example.com,0833779829,South-South,Rivers,2024-02-09,PLN-FIB,Active
+C-10008,Chidi  Williams,chidi.williams@example.com,0787249492,South-East,Enugu,2023-04-21,PLN-ENT,Active
+C-10009,DAVID nwachukwu,,0707622117,South-South,Delta,2023-09-02,PLN-ENT,Active
+C-10010,MARY  Williams,mary.williams@example.com,N/A,South-West,,2024-04-30,PLN-PRE,Active
+C-10011,emmanuel ADE,emmanuel.ade@example.com,0731393883,North-West,,2023-10-01,PLN-BAS,Churned
+C-10012,emmanuel doe,emmanuel.doe@example.com,0743648559,South-South,,2023-07-13,PLN-ENT,Active
+C-10013, aisha  Bello,aisha.bello@example.com,0988198223,South-West,,2023-06-09,PLN-ENT,Active
+C-10014,MARY Okonkwo,mary.okonkwo@example.com,0824960355,North-Central,,2023-03-16,PLN-UNL,Suspended
+C-10015,emmanuel Johnson,emmanuel.johnson@example.com,N/A,North-West,,2023-11-12,PLN-UNL,Active
+C-10016, aisha  Smith,aisha.smith@example.com,0773505716,North-West,Kaduna,2023-06-30,PLN-PRE,Active
+C-10017,emmanuel Johnson,emmanuel.johnson@example.com,0785443595,North-Central,Abuja,2024-04-30,PLN-BAS,Active
+C-10018,MARY ADE,,N/A,South-West,Oyo,2023-04-18,PLN-PRE,Active
+C-10019,MARY  Williams,mary.williams@example.com,0855217988,North-West,Kano,2023-07-26,PLN-FIB,Active
+C-10020,Sarah yusuf,,0965306653,South-South,Rivers,2023-01-20,PLN-FIB,Suspended
+C-10021,DAVID Okonkwo,david.okonkwo@example.com,N/A,North-Central,Kwara,2023-06-25,PLN-UNL,Active
+C-10022,MARY  Williams,mary.williams@example.com,0779691850,North-West,Kaduna,2023-02-18,PLN-PRE,Churned
+C-10023, aisha  Bello,aisha.bello@example.com,0921021430,South-East,Enugu,2023-09-03,PLN-PRE,Active
+C-10024, zainab yusuf,,0997193630,South-South,Rivers,2023-10-31,PLN-UNL,Active
+C-10025, zainab ADE,zainab.ade@example.com,0780299653,  south-west ,Lagos,2024-01-08,PLN-UNL,Active
+C-10026,olu yusuf,olu.yusuf@example.com,N/A,  south-west ,Ogun,2023-04-19,PLN-FIB,Active
+C-10027, zainab  Abubakar,zainab.abubakar@example.com,N/A,  south-west ,Ogun,2024-04-03,PLN-PRE,Active
+C-10028,Sarah  Abubakar,sarah.abubakar@example.com,N/A,  south-west ,Lagos,2023-09-17,PLN-FIB,Active
+C-10029, aisha  Bello,,N/A,  south-west ,Ogun,2023-11-26,PLN-PRE,Suspended
+C-10030,MARY  Abubakar,mary.abubakar@example.com,0960533519,  south-west ,Ogun,2024-04-04,PLN-PRE,Active
+C-10031,Sarah  Williams,sarah.williams@example.com,0818274474,North-Central,Plateau,2024-01-31,PLN-ENT,Active
+C-10032,Chidi yusuf,chidi.yusuf@example.com,0700140228,North-West,Kaduna,2024-02-14,PLN-BAS,Active
+C-10033,DAVID Bello,david.bello@example.com,0986790886,North-Central,Abuja,2024-01-16,PLN-PRE,Active
+C-10034,John Okonkwo,,0965355694,South-West,Lagos,2024-02-21,PLN-FIB,Active
+C-10035,DAVID ADE,david.ade@example.com,0723826072,South-West,Lagos,2023-02-07,PLN-PRE,Active
+C-10036, aisha  doe,aisha.doe@example.com,N/A,North-West,Kaduna,2024-01-18,PLN-FIB,Churned
+C-10037,MARY Smith,mary.smith@example.com,N/A,North-Central,Plateau,2023-09-08,PLN-ENT,Active
+C-10038,Fatima Bello,fatima.bello@example.com,N/A,South-East,Enugu,2023-04-20,PLN-UNL,Suspended
+C-10039,MARY  Williams,,0897621457,South-East,Enugu,2023-08-30,PLN-BAS,Active
+C-10040,DAVID Bello,david.bello@example.com,N/A,South-West,Lagos,2023-03-05,PLN-FIB,Active
+C-10041,emmanuel  Williams,,0927806497,North-Central,Abuja,2023-11-20,PLN-BAS,Active
+C-10042, aisha  ADE,aisha.ade@example.com,N/A,South-South,Rivers,2023-03-08,PLN-BAS,Active
+C-10043, aisha  doe,aisha.doe@example.com,0906236316,South-East,Anambra,2023-10-31,PLN-FIB,Active
+C-10044,MARY doe,mary.doe@example.com,0812978939,South-South,Delta,2023-04-03,PLN-UNL,Suspended
+C-10045, zainab Okonkwo,zainab.okonkwo@example.com,0741270104,South-East,Enugu,2023-12-07,PLN-PRE,Active
+C-10046,DAVID Smith,david.smith@example.com,0934149605,North-West,Kano,2023-12-25,PLN-BAS,Active
+C-10047, aisha  Okonkwo,,N/A,South-East,Anambra,2023-06-25,PLN-BAS,Active
+C-10048,DAVID ADE,david.ade@example.com,0809706346,South-West,Lagos,2023-12-01,PLN-BAS,Active
+C-10049, aisha  Smith,aisha.smith@example.com,0921448839,North-West,Kano,2023-04-10,PLN-ENT,Active
+C-10050,Fatima  Williams,fatima.williams@example.com,0809282302,South-West,Oyo,2024-03-03,PLN-ENT,Active
+C-10051, aisha  doe,aisha.doe@example.com,0909569032,North-Central,Plateau,2024-02-12,PLN-PRE,Active
+C-10052,Sarah doe,,N/A,North-West,Kano,2023-01-26,PLN-ENT,Churned
+C-10053, aisha  nwachukwu,aisha.nwachukwu@example.com,N/A,North-Central,Plateau,2023-08-30,PLN-FIB,Suspended
+C-10054, zainab Okonkwo,zainab.okonkwo@example.com,0733857348,North-West,Kano,2024-03-13,PLN-PRE,Active
+C-10055, aisha  nwachukwu,,N/A,South-East,Anambra,2023-10-31,PLN-FIB,Active
+C-10056,emmanuel  Abubakar,emmanuel.abubakar@example.com,N/A,South-South,Rivers,2024-02-16,PLN-ENT,Active
+C-10057,emmanuel Bello,emmanuel.bello@example.com,0798150493,North-Central,Plateau,2023-06-03,PLN-PRE,Active
+C-10058,emmanuel  Williams,emmanuel.williams@example.com,0760431388,South-West,Oyo,2023-02-28,PLN-PRE,Active
+C-10059,olu ADE,olu.ade@example.com,0864380678,South-South,Delta,2023-12-23,PLN-BAS,Churned
+C-10060, aisha  Bello,aisha.bello@example.com,N/A,South-East,Enugu,2023-04-23,PLN-PRE,Active
+C-10061,MARY doe,mary.doe@example.com,N/A,South-West,Oyo,2023-03-10,PLN-PRE,Active
+C-10062,Fatima yusuf,fatima.yusuf@example.com,N/A,South-East,Anambra,2023-05-24,PLN-BAS,Active
+C-10063,DAVID ADE,david.ade@example.com,N/A,South-West,Ogun,2024-04-11,PLN-PRE,Suspended
+C-10064,emmanuel  Abubakar,emmanuel.abubakar@example.com,0899329718,North-Central,Plateau,2023-04-20,PLN-FIB,Active
+C-10065,Chidi nwachukwu,,N/A,South-East,Enugu,2024-01-22,PLN-FIB,Churned
+C-10066, aisha  Okonkwo,aisha.okonkwo@example.com,N/A,South-South,Rivers,2024-01-14,PLN-ENT,Active
+C-10067,Fatima Bello,fatima.bello@example.com,0844781498,North-Central,Plateau,2024-01-20,PLN-BAS,Active
+C-10068,MARY Bello,,0870932231,North-West,Kaduna,2024-02-09,PLN-ENT,Active
+C-10069,DAVID Okonkwo,,0965383569,North-Central,Abuja,2024-02-23,PLN-ENT,Active
+C-10070, aisha  Smith,aisha.smith@example.com,0800669223,South-South,Rivers,2024-02-23,PLN-BAS,Active
+C-10071, aisha  Bello,aisha.bello@example.com,0846115993,North-Central,Abuja,2024-02-24,PLN-ENT,Active
+C-10072, aisha  nwachukwu,aisha.nwachukwu@example.com,N/A,South-West,Lagos,2023-05-18,PLN-FIB,Active
+C-10073, zainab ADE,zainab.ade@example.com,N/A,South-South,Delta,2023-03-31,PLN-FIB,Active
+C-10074,MARY Bello,mary.bello@example.com,0700547900,North-West,Kano,2023-11-23,PLN-FIB,Active
+C-10075,DAVID Smith,david.smith@example.com,0960416972,South-West,Ogun,2023-04-03,PLN-UNL,Suspended
+C-10076,MARY Johnson,,N/A,North-Central,Abuja,2024-01-11,PLN-ENT,Active
+C-10077,DAVID ADE,,0715392288,North-West,Kaduna,2024-02-03,PLN-FIB,Active
+C-10078,olu doe,olu.doe@example.com,N/A,South-East,Enugu,2023-06-21,PLN-FIB,Active
+C-10079, aisha  nwachukwu,aisha.nwachukwu@example.com,N/A,North-Central,Kwara,2023-03-24,PLN-BAS,Active
+C-10080, zainab  Abubakar,zainab.abubakar@example.com,0716630829,South-East,Enugu,2023-11-03,PLN-FIB,Active
+C-10081, aisha  doe,aisha.doe@example.com,0740925916,North-West,Kaduna,2023-07-26,PLN-PRE,Active
+C-10082,MARY nwachukwu,mary.nwachukwu@example.com,0710609312,North-West,Kano,2023-06-18,PLN-UNL,Active
+C-10083,Sarah yusuf,sarah.yusuf@example.com,0955938597,South-East,Anambra,2023-02-23,PLN-ENT,Active
+C-10084, aisha  Smith,aisha.smith@example.com,0733857321,North-Central,Kwara,2023-11-13,PLN-ENT,Churned
+C-10085,emmanuel ADE,emmanuel.ade@example.com,N/A,South-South,Delta,2023-09-17,PLN-PRE,Active
+C-10086,MARY ADE,,0848970929,North-West,Kano,2024-02-02,PLN-FIB,Active
+C-10087, aisha  Johnson,,0918512396,North-Central,Plateau,2023-06-25,PLN-UNL,Active
+C-10088,MARY Bello,,N/A,South-West,Lagos,2023-07-02,PLN-PRE,Active
+C-10089,Sarah nwachukwu,sarah.nwachukwu@example.com,0948962071,North-Central,Kwara,2023-12-16,PLN-BAS,Active
+C-10090,emmanuel doe,emmanuel.doe@example.com,N/A,North-West,Kano,2024-04-03,PLN-ENT,Active
+C-10091, aisha  ADE,aisha.ade@example.com,0718538612,South-West,Lagos,2023-04-18,PLN-ENT,Active
+C-10092, aisha  doe,aisha.doe@example.com,N/A,South-West,Lagos,2024-05-13,PLN-BAS,Active
+C-10093,John nwachukwu,john.nwachukwu@example.com,0934057630,North-Central,Abuja,2023-09-28,PLN-UNL,Active
+C-10094, aisha  Bello,aisha.bello@example.com,N/A,North-West,Kano,2024-01-23,PLN-PRE,Churned
+C-10095,DAVID yusuf,david.yusuf@example.com,N/A,South-South,Rivers,2024-02-23,PLN-BAS,Active
+C-10096,Fatima  Williams,fatima.williams@example.com,N/A,South-East,Anambra,2023-07-16,PLN-FIB,Churned
+C-10097, aisha  Bello,aisha.bello@example.com,0996849845,South-East,Anambra,2024-02-24,PLN-ENT,Active
+C-10098,MARY Okonkwo,mary.okonkwo@example.com,0759080708,North-Central,Kwara,2024-04-17,PLN-ENT,Active
+C-10099, aisha  Bello,aisha.bello@example.com,0903332415,South-South,Delta,2023-10-30,PLN-PRE,Suspended
+C-10100, zainab  Abubakar,zainab.abubakar@example.com,0895311099,South-East,Enugu,2024-04-14,PLN-ENT,Active
+C-10101, aisha  Smith,aisha.smith@example.com,0888998817,South-West,Oyo,2023-02-05,PLN-PRE,Churned
+C-10102,olu  Williams,olu.williams@example.com,0986705541,North-West,Kaduna,2023-10-09,PLN-BAS,Active
+C-10103,Fatima  Abubakar,fatima.abubakar@example.com,0987309995,South-East,Anambra,2023-12-07,PLN-BAS,Active
+C-10104, aisha  Bello,aisha.bello@example.com,0854659477,South-East,Enugu,2023-04-03,PLN-PRE,Active
+C-10105,emmanuel Okonkwo,emmanuel.okonkwo@example.com,N/A,North-Central,Plateau,2023-03-24,PLN-FIB,Active
+C-10106,Chidi ADE,chidi.ade@example.com,0950343360,North-West,Kaduna,2023-12-25,PLN-BAS,Active
+C-10107,MARY doe,mary.doe@example.com,N/A,North-West,Kaduna,2023-12-09,PLN-UNL,Churned
+C-10108, aisha  Okonkwo,aisha.okonkwo@example.com,N/A,South-South,Delta,2024-02-23,PLN-ENT,Active
+C-10109,DAVID doe,david.doe@example.com,N/A,North-Central,Abuja,2023-12-24,PLN-FIB,Active
+C-10110, aisha  doe,aisha.doe@example.com,N/A,South-South,Rivers,2023-10-22,PLN-PRE,Active
+C-10111,Fatima  Abubakar,,N/A,North-Central,Plateau,2023-12-16,PLN-BAS,Active
+C-10112,emmanuel  Abubakar,emmanuel.abubakar@example.com,N/A,North-West,Kano,2023-08-01,PLN-BAS,Suspended
+C-10113, aisha  nwachukwu,aisha.nwachukwu@example.com,0812903524,North-Central,Plateau,2023-05-17,PLN-ENT,Active
+C-10114,MARY  Williams,mary.williams@example.com,N/A,North-West,Kano,2023-08-16,PLN-FIB,Active
+C-10115, aisha  nwachukwu,,0796328329,South-East,Anambra,2023-09-02,PLN-PRE,Active
+C-10116, aisha  yusuf,aisha.yusuf@example.com,0783472097,South-East,Anambra,2024-04-10,PLN-ENT,Active
+C-10117, aisha  nwachukwu,aisha.nwachukwu@example.com,0844281358,South-South,Delta,2023-12-07,PLN-PRE,Active
+C-10118, aisha  yusuf,,N/A,North-Central,Abuja,2023-09-01,PLN-FIB,Suspended
+C-10119, aisha  Bello,aisha.bello@example.com,0760416962,South-West,Lagos,2024-03-24,PLN-BAS,Active
+C-10065,Chidi nwachukwu,,N/A,South-East,Enugu,2024-01-22,PLN-FIB,Churned
+C-10020,Sarah yusuf,,0965306653,South-South,Rivers,2023-01-20,PLN-FIB,Suspended
+C-10114,MARY  Williams,mary.williams@example.com,N/A,North-West,Kano,2023-08-16,PLN-FIB,Active
+C-10103,Fatima  Abubakar,fatima.abubakar@example.com,0987309995,South-East,Anambra,2023-12-07,PLN-BAS,Active
+C-10087, aisha  Johnson,,0918512396,North-Central,Plateau,2023-06-25,PLN-UNL,Active
