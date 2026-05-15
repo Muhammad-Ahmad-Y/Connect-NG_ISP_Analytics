@@ -47,19 +47,19 @@ The analysis is based on a relational data model comprising three main tables:
 *(Note to user: Add your dashboard image files to an images/ folder in your repo to display them here)*
 
 ### **Overview**
-https://github.com/Muhammad-Ahmad-Y/Connect-NG_ISP_Analytics/blob/main/Images/Overview.jpeg
+![Overview Dashboard](Images/Overview.jpeg)
 * **Scale:** Analyzed 229 transactions across 120 customers.  
 * **Usage:** Total data consumed was 16,200 GB, heavily led by the South-West region.  
 * **Preferences:** While "Unlimited" is the most common plan, "Premium" drives the highest share of transactions (24.8%), and "Enterprise" generates the highest base revenue.
 
 ### **Revenue, Use & Overuse**
-https://github.com/Muhammad-Ahmad-Y/Connect-NG_ISP_Analytics/blob/main/Images/Revenue%20%26%20Use.jpeg
+![Revenue Dashboard](Images/Revenue%20&%20Use.jpeg)
 * **Revenue:** Generated ₦5M in Gross Plan Revenue, led by Abuja, Rivers, and Plateau states.  
 * **Overages:** A massive 17.48% (2.83K GB) of total data usage was overuse. Basic (46.9%) and Premium (47.7%) plan users account for nearly all data overages, highlighting prime upselling opportunities.  
 * **Payments:** Card payments are the most popular (37.9%), followed closely by Cash (22.7%).
 
 ### **Customer, Churn & Complain**
-https://github.com/Muhammad-Ahmad-Y/Connect-NG_ISP_Analytics/blob/main/Images/Customer%20%26%20Complain.jpeg
+![Customer Dashboard](Images/Customer%20&%20Complain.jpeg)
 * **Churn Risk:** The overall churn rate is 10%. The North-West region is a critical risk zone with a 24% churn rate, significantly higher than the national average.  
 * **Product Risk:** The "Fiber-Home" plan experiences the highest product churn (12%).  
 * **Support & Friction:** A 29.3% complaint rate (67 total complaints) and a 7.8% failed payment rate indicate significant operational friction points that need addressing to improve retention.
